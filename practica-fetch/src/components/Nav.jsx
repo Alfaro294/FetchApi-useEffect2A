@@ -7,6 +7,8 @@ function Nav(){
             <div className="flex items-center gap-4 text-sm">
             <Link to="/" className="hover:underline">Home</Link>
             <Link to="/dragon" className="hover:underline">DragonBall</Link>
+            <Link to="/rickAndMorty" className="hover:underline">RickAndMorty</Link>
+
             </div>
         </nav>
     );
